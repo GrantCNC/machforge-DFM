@@ -86,9 +86,10 @@ If some details are not finalized, you can still share the information available
 
 * [MachForge Official Website](https://www.machforge.xyz/)
 * [CNC Machining & Low-Volume Production](https://www.machforge.xyz/cnc-manufacturing-coordination/) — CNC prototyping and low-volume production support, from CAD review through inspection and delivery. MOQ: 1 piece.
-* [Engineering & CNC DFM Support](https://www.machforge.xyz/engineering-dfm-support/) — practical DFM support covering tool access, tolerances, materials, assembly, and production readiness.
+* [Engineering & CNC DFM Support](https://www.machforge.xyz/cnc-dfm/) — practical DFM support covering tool access, tolerances, materials, assembly, and production readiness.
 * [316L O-Ring Groove DFM Case](https://www.machforge.xyz/case-studies/316l-o-ring-groove-dfm/)
 * [6061 Stepped-Bore DFM Case](https://www.machforge.xyz/case-studies/6061-stepped-bores-dfm/)
+* [Contact MachForge](https://www.machforge.xyz/contact/) — short inquiry form and direct email for CNC machining and prototyping requests
 * [Grant Lv on LinkedIn](https://www.linkedin.com/in/grantlv-cnc/)
 
 ### Social Channels
